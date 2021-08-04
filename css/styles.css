@@ -102,6 +102,7 @@ hr {
 	padding:16px 31px;
 	text-decoration:none;
 	text-shadow:0px 1px 0px #2f6627;
+	margin-bottom: 20px;
 }
 .myButton:hover {
 	background-color:#5cbf2a;
