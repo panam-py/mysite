@@ -70,11 +70,7 @@ a {
   display: inline;
 }
 
-.develop {
-  text-align: left;
-  padding-left: 500px;
-  padding-right: 500px;
-}
+
 
 .image {
   width: 15%;
@@ -92,7 +88,7 @@ hr {
 
 .myButton {
 	background-color:#44c767;
-	border-radius:28px;
+	border-radius:40px;
 	border:1px solid #18ab29;
 	display:inline-block;
 	cursor:pointer;
@@ -102,7 +98,7 @@ hr {
 	padding:16px 31px;
 	text-decoration:none;
 	text-shadow:0px 1px 0px #2f6627;
-	margin-bottom: 20px;
+  margin-bottom: 20px;
 }
 .myButton:hover {
 	background-color:#5cbf2a;
@@ -123,4 +119,9 @@ hr {
 
 a:hover {
   color: green;
+}
+
+.footer-link {
+  font-size: 1.5em;
+
 }
